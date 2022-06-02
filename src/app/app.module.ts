@@ -11,7 +11,6 @@ import { LoginComponent } from './pages/login/login.component';
 import { ForgotPasswordComponent } from './pages/forgot-password/forgot-password.component';
 import { BlankComponent } from './pages/blank/blank.component';
 import { Page404Component } from './pages/page404/page404.component';
-import { HomeComponent } from './pages/home/home.component';
 import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { ButtonsComponent } from './pages/buttons/buttons.component';
 import { CardsComponent } from './pages/cards/cards.component';
@@ -33,7 +32,6 @@ import { UtilitiesOtherComponent } from './pages/utilities-other/utilities-other
     ForgotPasswordComponent,
     BlankComponent,
     Page404Component,
-    HomeComponent,
     DashboardComponent,
     ButtonsComponent,
     CardsComponent,
