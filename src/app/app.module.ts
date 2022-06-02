@@ -20,6 +20,7 @@ import { UtilitiesAnimationComponent } from './pages/utilities-animation/utiliti
 import { UtilitiesBorderComponent } from './pages/utilities-border/utilities-border.component';
 import { UtilitiesColorComponent } from './pages/utilities-color/utilities-color.component';
 import { UtilitiesOtherComponent } from './pages/utilities-other/utilities-other.component';
+import { IndexComponent } from './components/index/index.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +41,8 @@ import { UtilitiesOtherComponent } from './pages/utilities-other/utilities-other
     UtilitiesAnimationComponent,
     UtilitiesBorderComponent,
     UtilitiesColorComponent,
-    UtilitiesOtherComponent
+    UtilitiesOtherComponent,
+    IndexComponent
   ],
   imports: [
     BrowserModule,
