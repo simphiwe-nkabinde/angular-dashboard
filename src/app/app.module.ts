@@ -21,6 +21,7 @@ import { UtilitiesBorderComponent } from './pages/utilities-border/utilities-bor
 import { UtilitiesColorComponent } from './pages/utilities-color/utilities-color.component';
 import { UtilitiesOtherComponent } from './pages/utilities-other/utilities-other.component';
 import { IndexComponent } from './components/index/index.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -42,7 +43,8 @@ import { IndexComponent } from './components/index/index.component';
     UtilitiesBorderComponent,
     UtilitiesColorComponent,
     UtilitiesOtherComponent,
-    IndexComponent
+    IndexComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
