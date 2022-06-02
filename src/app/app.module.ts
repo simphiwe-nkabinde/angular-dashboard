@@ -22,6 +22,7 @@ import { UtilitiesColorComponent } from './pages/utilities-color/utilities-color
 import { UtilitiesOtherComponent } from './pages/utilities-other/utilities-other.component';
 import { IndexComponent } from './components/index/index.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { ScrollToTopComponent } from './components/scroll-to-top/scroll-to-top.component';
 
 @NgModule({
   declarations: [
@@ -44,7 +45,8 @@ import { FooterComponent } from './components/footer/footer.component';
     UtilitiesColorComponent,
     UtilitiesOtherComponent,
     IndexComponent,
-    FooterComponent
+    FooterComponent,
+    ScrollToTopComponent
   ],
   imports: [
     BrowserModule,
