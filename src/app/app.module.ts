@@ -23,6 +23,7 @@ import { UtilitiesOtherComponent } from './pages/utilities-other/utilities-other
 import { IndexComponent } from './components/index/index.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { ScrollToTopComponent } from './components/scroll-to-top/scroll-to-top.component';
+import { LogoutModalComponent } from './components/logout-modal/logout-modal.component';
 
 @NgModule({
   declarations: [
@@ -46,7 +47,8 @@ import { ScrollToTopComponent } from './components/scroll-to-top/scroll-to-top.c
     UtilitiesOtherComponent,
     IndexComponent,
     FooterComponent,
-    ScrollToTopComponent
+    ScrollToTopComponent,
+    LogoutModalComponent
   ],
   imports: [
     BrowserModule,
