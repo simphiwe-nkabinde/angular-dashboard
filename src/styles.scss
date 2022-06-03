@@ -10145,7 +10145,8 @@
     border: 0;
     font-weight: 900;
     content: '\f105';
-    font-family: 'Font Awesome 5 Free';
+    // font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 6 Free';
   }
   
   .sidebar .nav-item.dropdown.show .dropdown-toggle::after,
@@ -10427,7 +10428,8 @@
   .sidebar #sidebarToggle::after {
     font-weight: 900;
     content: '\f104';
-    font-family: 'Font Awesome 5 Free';
+    // font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 6 Free';
     margin-right: 0.1rem;
   }
   
@@ -10446,7 +10448,8 @@
   
   .sidebar.toggled #sidebarToggle::after {
     content: '\f105';
-    font-family: 'Font Awesome 5 Free';
+    // font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 6 Free';
     margin-left: 0.25rem;
   }
   
@@ -10560,7 +10563,8 @@
       border: 0;
       font-weight: 900;
       content: '\f107';
-      font-family: 'Font Awesome 5 Free';
+      // font-family: 'Font Awesome 5 Free';
+      font-family: 'Font Awesome 6 Free';
     }
     .sidebar .nav-item .nav-link[data-toggle="collapse"].collapsed::after {
       content: '\f105';
@@ -10818,7 +10822,8 @@
     line-height: 51px;
     font-weight: 900;
     content: '\f107';
-    font-family: 'Font Awesome 5 Free';
+    // font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 6 Free';
     color: #d1d3e2;
   }
   
